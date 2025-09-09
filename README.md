@@ -1,1 +1,2 @@
-# tread-co-inventory-manager-plus
+# tread-co-inventory-manager
+# tread-co-inventory-manager
